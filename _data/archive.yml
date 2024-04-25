@@ -1,9 +1,15 @@
 - type: dates
   title: Dates
   url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+- type: categories
+ title: Categories
+ url: /categories/
 - type: tags
   title: Tags
   url: /tags/
+  - type: Unity
+  title: Unity
+  url: /unity/
+  - type: Android
+  title: Android
+  url: /android/

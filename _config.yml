@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Jeces GithubIO
+description: Jeces GithubIO for blogs
+url: https://jeces.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -37,6 +37,7 @@ social:
   links:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
+    - https://github.com/jeces
 google_site_verification: xxxxx
 lang: en
 
@@ -55,5 +56,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  url: https://github.com/jeces/
+  email: kamalys4033@gmail.com

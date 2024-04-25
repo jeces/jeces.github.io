@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: jeces
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yeongsik Jang
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/
     - https://github.com/jeces
 google_site_verification: xxxxx
 lang: en
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Yeongsik Jang
   url: https://github.com/jeces/
   email: kamalys4033@gmail.com
